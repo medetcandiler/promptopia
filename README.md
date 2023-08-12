@@ -18,5 +18,5 @@ Whether you're a developer, designer, or enthusiast, you're invited to contribut
 
 Explore the codebase, share your ideas, and collaborate on building a platform that fuels creativity and imagination. Let's embark on a journey of discovery and inspiration together.
 
-**Website:** [Live Link](https://promptopia-92kc8t98e-medetcandiler.vercel.app/)
+**Website:** [Live Link](https://promptopia-seven-rho.vercel.app/)
 
